@@ -14,16 +14,16 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: AVL / LX - pub essai # the main title
+title: AVL | W.G. Sebald # the main title
 
-tagline: comparative literature - linguistics  # it will display as the subtitle
+tagline: an arkkiv essai # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  a sample project page for dahlem center for linugistics webpage. term paper draft.
+  class small paper draft on w.g.sebald oeuvre
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://esteeschwarz.github.io/open-lx"
+url: "https://esteeschwarz.github.io/wg-sebald"
 
 github:
   username: esteeschwarz # change to your GitHub username
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/open-lx"
+baseurl: "/wg-sebald"
 
 # ------------ The following options are not recommended to be modified ------------------
 
