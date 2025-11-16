@@ -23,4 +23,4 @@ format:
     toc: true
 
 editor: source
-#output-location: ../../_qsite
+#output-dir: ../_docs

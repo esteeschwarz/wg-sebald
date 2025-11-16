@@ -32,3 +32,5 @@ assets/js/dist
 .RData
 *.rds
 content/LX-psych/*_files
+/.quarto/
+**/*.quarto_ipynb
