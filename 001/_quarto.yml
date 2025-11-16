@@ -14,7 +14,7 @@ website:
 format:
   html:
     theme:
-      - litera
+      - cosmo #litera
       - brand
     #mainfont: Courier
     monofont: Menlo
