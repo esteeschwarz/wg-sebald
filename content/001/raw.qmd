@@ -5,7 +5,7 @@ echo: false
 
 ---
 
-## A few datapoints on *Austerlitz*
+## A few mentions on *Austerlitz*
 
 
 ```{r}
@@ -32,7 +32,7 @@ tabmeta<-data.frame(author=c("sebald","mann","musil"),book=c("austerlitz","josep
 ```
 
 ## now data
-Sebalds *Austerlitz* contains not more than `{r} meta1$wl` words, the mean word length is `{r} meta1$tlmn` characters. The type/token ratio, an indicator for lexical diversity of a text, is `{r} meta1$ttr` (cf. @tbl-meta for comparison). So we have here a text with significantly more unique tokens over all types as the two other books.
+Sebalds *Austerlitz* contains not more than `{r} meta1$wl` words, the mean word length is `{r} meta1$tlmn` characters. The type/token ratio, an indicator for lexical diversity of a text, is `{r} meta1$ttr` (cf. @tbl-meta for comparison). So we have here a text with significantly more unique tokens over all types (= verhältnismäszig abwechslungsreicher text) as the two other books.
 
 ```{r}
 #| label: tbl-meta
@@ -42,7 +42,8 @@ knitr::kable(tabmeta)
 
 ```
 
-Das Buch kostet als ebook 15,99 Euro, @buecherde_austerlitz_2025. Das ist immer noch verhältnismäszig, Joseph und Der Mann ohne Eigenschaften kosten beide 9,99; Sebald gehört noch nicht zu den einfach zu verlegenden Klassikern, wird aber ebenfalls ohne Kopierschutz verkauft. Deshalb können wir gern an dieser Stelle, wo die 50 Seiten aufhören, weiterlesen. 
+Das Buch kostet als ebook 15,99 Euro, @buecherde_austerlitz_2025. Das ist immer noch verhalten, Joseph und Der Mann ohne Eigenschaften kosten beide 9,99; Sebald gehört noch nicht zu den einfach zu verlegenden Klassikern, wird aber ebenfalls ohne Kopierschutz verkauft. Deshalb können wir gern an dieser Stelle, wo die 50 Seiten aufhören, weiterlesen. 
 
 ## mixed
-Ich empfehle weiterhin (GPT würde das genauso sehen): Theweleit, Buch der Könige. Es scheint sich zu der Zeit ein Muster herausgebildet zu haben - Kluge gehört dann auch dazu - sich auf diese halbdokumentarische Weise der-Vergangenheit-und-allem-Angelegentlichen anzunähern. Wenn sie das ganze nicht nur aus Trotz gegen die Weiter:anwesenheit: der Schergen schrieben (der jedoch sehr wahrscheinlich dabei war in diesen Kriegskindern [32-42-44]), dann sicherlich, um auf ihre Weise etwas zu erhalten auf eine notwendig unnachsichtige und unterhaltsame Art. Sebald erntet dafür nicht nur Lob, cf. @strawson_2001_2001.
+Ich empfehle weiterhin (GPT würde das genauso sehen): Theweleit, Buch der Könige / Raoul Schrott, Erste Erde. Es scheint sich zu der Zeit ein Muster herausgebildet zu haben - Kluge gehört dann auch dazu - sich auf diese halbdokumentarische Weise der-Vergangenheit(Theweleit/Kluge)-und-allem-Angelegentlichen(Schrott: auszer der Reihe) anzunähern. Wenn sie das ganze nicht nur aus Trotz gegen die Weiter:anwesenheit: der Schergen schrieben (der jedoch sehr wahrscheinlich dabei war in den Kriegskindern [32-42-44]), dann sicherlich, um auf ihre Weise etwas zu erhalten auf eine notwendig unnachsichtige und unterhaltsame Art. Sebald erntet dafür nicht nur Lob, cf. @strawson_2001_2001, auch in Raoul Schrott und Klaus Theweleit finden wir streitbare Literatur; vielleicht würde aktuell manches unter *mansplaining* laufen, was die Herren da erklären. Aber auch Theresa Präauer z.b. schreibt sich in *Tier werden* literarisch in die Wissenschaft bzw. Geschichte ein.  
+In meine zumindest jetzt, nach Sebald, etwas besser das Konzept dessen, was mit **Dokufiktion** gemeint sein soll, verstanden zu haben, nachdem der Habitus klar ist. Und Sebalds immerwieder gern recurrierter Thomas Brown, der schon im 16. Jh. auf dem Feld groszes leistete, sorgt auch heute noch für ehrfürchtige Vertiefung quer durch die Geschichte und Wissenschaft.
