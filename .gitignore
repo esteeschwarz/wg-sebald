@@ -28,6 +28,7 @@ _sass/vendors
 assets/js/dist
 .Rproj.user
 **/.DS_Store
+.DS_Store
 .Rhistory
 .RData
 *.rds
