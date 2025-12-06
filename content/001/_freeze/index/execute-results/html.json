@@ -1,8 +1,8 @@
 {
-  "hash": "ec3cd825d7be4d22fc9b23520ae66329",
+  "hash": "2941d6f6a5608545101de1745209fa41",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"W.G. Sebald\"\nsubtitle: \"temp class archive essai\"\n---\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n> Sie sehen: 1 und 1 sind 2.",
+    "markdown": "---\ntitle: \"W.G. Sebald\"\nsubtitle: \"temp class archive essai\"\n---\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n> Sie sehen: 1 und 1 sind 2.\n\n> Sebald class moved > [here](https://esteeschwarz.github.io/open-lx/essais/sebald/001).",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
